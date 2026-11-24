@@ -9,7 +9,7 @@ One small good thing from today, in a single line: the stray cat under the stair
 ## Run it
 
 ```sh
-python3 main.py
+node main.ts
 ```
 
 ---
